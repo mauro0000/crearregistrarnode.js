@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "username": "richar",
+      "id": 1
+    },
+    {
+      "username": "pedro",
+      "id": 2
+    }
+  ],
+  "tareas": [
+    {
+      "text": "marina",
+      "user": "richar",
+      "id": 1,
+      "checked": true
+    },
+    {
+      "text": "torres",
+      "user": "richar",
+      "id": 2,
+      "checked": true
+    }
+  ]
+}
